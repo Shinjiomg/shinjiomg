@@ -7,13 +7,18 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="200" alt="Gato con peluca" src="https://pbs.twimg.com/profile_images/1246880502558097411/g4t-NO_k_400x400.jpg">
 </a>
-🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "WebSquadForge"<br>
-🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br><br>
-📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
 
 [![](https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<br><br>
+
+🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "WebSquadForge"<br>
+🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br>
+
+📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
+
+
+
+
 ## 🌐 Redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannalotte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonatandavidbecerradonado-frontend) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shannalotte) 
 
@@ -28,8 +33,8 @@
 </a>
 </p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=archymen&width=1000)
+
   ## 💰 Si quieres ayudarme:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shannalotte) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
