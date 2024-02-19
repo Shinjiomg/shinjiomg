@@ -1,12 +1,15 @@
 <div align="center">
-<h1 align="center">¡Hola! Soy Jhonatan, Desarollador Web</a> 👋</h1>
+<h1 align="center">¡Hola!👋, Soy Jhonatan</a></h1>
+  <h3 align="center">Un desarrollador Web apasionado de Colombia</h3>
 </div>
 
 ## 💫 Sobre mi:
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="200" alt="Gato con peluca" src="https://pbs.twimg.com/profile_images/1246880502558097411/g4t-NO_k_400x400.jpg">
 </a>
-🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "WebSquadForge"<br>🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br><br>
+🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "WebSquadForge"<br>
+🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br><br>
+📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
 
 [![](https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6)](https://visitcount.itsvg.in)
 
