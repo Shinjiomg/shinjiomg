@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6)](https://visitcount.itsvg.in)
 
 
-🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "DevLumina"<br>
+🔭 Actualmente me encuentro en el desarrollo de mi Emprendimiento de Desarrollo Web titulado "DevLumina💡"<br>
 🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br>
 
 📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
