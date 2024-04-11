@@ -4,9 +4,6 @@
 </div>
 
 ## 💫 Sobre mi:
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="200" alt="Gato con peluca" src="https://pbs.twimg.com/profile_images/1246880502558097411/g4t-NO_k_400x400.jpg">
-</a>
 
 [![](https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6)](https://visitcount.itsvg.in)
 
@@ -32,9 +29,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shinjiomg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=archymen&width=1000)
-
-  ## 💰 Si quieres ayudarme:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shannalotte) 
 
