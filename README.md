@@ -8,8 +8,9 @@
 [![](https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6)](https://visitcount.itsvg.in)
 
 
-🌱 Mi enfoque actual es aprender React, Tailwind y Firebase<br>
-
+🌱 Mi enfoque actual es aprender React y Firebase<br>
+🏁 ¡Acabo de crear mi portafolio personal aprendiendo desde 0 Vue.js y Tailwind!<br>
+🔍 Puedes visitarlo aquí https://shannalotte-portfolio.vercel.app/about, ¡Espero tus mensajes!<br>
 📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
 
 
