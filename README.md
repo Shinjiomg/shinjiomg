@@ -10,7 +10,7 @@
 
 🌱 Mi enfoque actual es aprender React y Firebase<br>
 🏁 ¡Acabo de crear mi portafolio personal aprendiendo desde 0 Vue.js y Tailwind!<br>
-🔍 Puedes visitarlo aquí https://shannalotte-portfolio.vercel.app/about, ¡Espero tus mensajes!<br>
+🔍 Puedes visitarlo aquí https://shannalotte-portfolio.vercel.app/about ¡Espero tus mensajes!<br>
 📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
 
 
