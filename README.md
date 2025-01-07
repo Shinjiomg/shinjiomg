@@ -9,7 +9,7 @@
 
 
 🌱 Enfocado principalmente en Angular y Astro<br>
-🔍 Puedes visitar mi portafolio aquí https://shannalotte-portfolio.vercel.app/about ¡Espero tus mensajes!<br>
+🔍 Puedes visitar mi portafolio actualizado aquí https://jhonatanbecerra-portfolio.vercel.app/ ¡Espero tus mensajes!<br>
 📫 Pueden contactarse conmigo a través de este correo **yonkitas9@gmail.com** <br><br>
 
 
