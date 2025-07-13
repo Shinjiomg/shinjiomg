@@ -47,7 +47,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shinjiomg&icon=1&color=6" alt="Profile views" />
-</p>
